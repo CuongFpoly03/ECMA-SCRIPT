@@ -1,0 +1,171 @@
+{
+  "order": [
+    {
+      "id": "b8e0",
+      "customer_name": "lê phú cường ",
+      "customer_address": "Thanh hoá ",
+      "customer_phone_number": "0981477710",
+      "status": "Đang xử lý",
+      "created_date": "2024-02-20T10:39:39.376Z"
+    },
+    {
+      "id": "7720",
+      "customer_name": "le văn hai",
+      "customer_address": "ho chi minh",
+      "customer_phone_number": "09876543",
+      "status": "Đang xử lý",
+      "created_date": "2024-02-20T10:57:48.913Z"
+    },
+    {
+      "id": "a638",
+      "customer_name": "lê phú cường ",
+      "customer_address": "Thanh hoá ",
+      "customer_phone_number": "0981477710",
+      "status": "Đang xử lý",
+      "created_date": "2024-02-20T10:58:39.804Z"
+    },
+    {
+      "id": "cdd2",
+      "customer_name": "lê phú cường ",
+      "customer_address": "hà nội",
+      "customer_phone_number": "12352345234",
+      "status": "Đang xử lý",
+      "created_date": "2024-02-21T00:30:46.906Z"
+    }
+  ],
+  "order_details": [
+    {
+      "id": "164c",
+      "order_id": "b8e0",
+      "product_id": 1,
+      "quantity": 1,
+      "unit_price": 12
+    },
+    {
+      "id": "11bc",
+      "order_id": "7720",
+      "product_id": 1,
+      "quantity": 1,
+      "unit_price": 12
+    },
+    {
+      "id": "3222",
+      "order_id": "a638",
+      "product_id": 1,
+      "quantity": "3",
+      "unit_price": 36
+    },
+    {
+      "id": "82d2",
+      "order_id": "cdd2",
+      "product_id": 1,
+      "quantity": "3",
+      "unit_price": 36
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "namePro": "New Pant 2023",
+      "imgPro": "./images/home/product1.jpg",
+      "pricePro": 12,
+      "quantityPro": 1,
+      "viewPro": 100,
+      "idCategory": "4"
+    },
+    {
+      "id": "2",
+      "namePro": "New Pant 2023",
+      "imgPro": "./images/home/product2.jpg",
+      "pricePro": 13,
+      "quantityPro": 1,
+      "viewPro": 100,
+      "idCategory": "2"
+    },
+    {
+      "id": "3",
+      "namePro": "New Pant 2023",
+      "imgPro": "./images/home/product4.jpg",
+      "pricePro": 13,
+      "quantityPro": 1,
+      "viewPro": 100,
+      "idCategory": "2"
+    },
+    {
+      "id": "4",
+      "namePro": "New Pant 2023",
+      "imgPro": "./images/home/product5.jpg",
+      "pricePro": 12,
+      "quantityPro": 1,
+      "viewPro": 100,
+      "idCategory": "5"
+    },
+    {
+      "id": "5",
+      "namePro": "New Pant 2023",
+      "imgPro": "./images/home/product1.jpg",
+      "pricePro": 23,
+      "quantityPro": 1,
+      "viewPro": 100,
+      "idCategory": "6"
+    },
+    {
+      "id": "6",
+      "namePro": "New Pant 2023",
+      "imgPro": "./images/home/product2.jpg",
+      "pricePro": 12,
+      "quantityPro": 1,
+      "viewPro": 100,
+      "idCategory": "6"
+    },
+    {
+      "id": "7",
+      "namePro": "New Pant 2023",
+      "imgPro": "./images/home/product3.jpg",
+      "pricePro": 13,
+      "quantityPro": 1,
+      "viewPro": 100,
+      "idCategory": "5"
+    },
+    {
+      "id": "8",
+      "namePro": "New Pant 2023",
+      "imgPro": "./images/home/product4.jpg",
+      "pricePro": 13,
+      "quantityPro": 1,
+      "viewPro": 100,
+      "idCategory": "4"
+    },
+    {
+      "id": "9",
+      "namePro": "New Pant 2023",
+      "imgPro": "./images/home/product5.jpg",
+      "pricePro": 32,
+      "quantityPro": 1,
+      "viewPro": 100,
+      "idCategory": "2"
+    }
+  ],
+  "category": [
+    {
+      "id": "2",
+      "nameCategory": "áo nữ",
+      "status": "ẩn"
+    },
+    {
+      "id": "4",
+      "nameCategory": "áo nam",
+      "status": "hiện"
+    },
+    {
+      "id": "5",
+      "nameCategory": "váy",
+      "status": "hiện"
+    },
+    {
+      "id": "6",
+      "nameCategory": "quần ",
+      "status": "hiện"
+    }
+  ]
+}
